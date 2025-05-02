@@ -7,8 +7,8 @@ image: /assets/images/main.png
 main_content: >
   # Do texto à imagem, da ideia à experiência
 
-  **Na LCR, palavras constroem, imagens envolvem e ideias ganham forma com propósito.** Unimos conteúdo e estratégia para criar marcas que permanecem. 
-  Com rigor técnico e visão criativa, criamos projetos únicos, pensados nos mínimos detalhes — do conceito à realização.
+  **Na LCR, palavras constroem, imagens envolvem e ideias ganham forma com propósito.** Unimos conteúdo e estratégia para criar marcas que permanecem, com rigor técnico e visão criativa.  
+  Cada projeto é único, pensado nos mínimos detalhes — do conceito à realização.
   **Porque histórias não se contam — se vivem.** Damos forma à sua voz, imagem e essência com autenticidade, precisão e excelência.
 
 footer: true
