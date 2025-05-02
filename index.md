@@ -2,22 +2,15 @@
 layout: home
 title: Home
 description: >-
-  Especializado en el desarrollo de API RESTs con Ruby on Rails. He participado
-  en diversas etapas del ciclo de desarrollo de aplicaciones.
+ ""
 image: /assets/images/main.png
 main_content: >
-  # LCR Serviços LTDA
+  # Do texto à imagem, da ideia à experiência
 
+  **Na LCR, palavras constroem, imagens envolvem e ideias ganham forma com propósito.** Unimos conteúdo e estratégia para criar marcas que permanecem. 
+  Com rigor técnico e visão criativa, criamos projetos únicos, pensados nos mínimos detalhes — do conceito à realização.
+  **Porque histórias não se contam — se vivem.** Damos forma à sua voz, imagem e essência com autenticidade, precisão e excelência.
 
-  **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
-  excutis
-
-  quoque vestigia substricta caelestique posuisset litore: suaque. **Et
-  limine**, et
-
-  nimium nec io diemque vocat spicea et horror licet leto fortuna suis cum.
-  **Lecto viae, quod Naxos tumulos quoque.** Et illo de nati iuvenci oris habet,
-  perdidit parantur! **#Rails #Ruby #Python #HTML #Css #Js #AWS**
 footer: true
 permalink: /
 ---
