@@ -4,9 +4,9 @@ title: Home
 description: >-
   Especializado en el desarrollo de API RESTs con Ruby on Rails. He participado
   en diversas etapas del ciclo de desarrollo de aplicaciones.
-image: /assets/images/main.avif
+image: /assets/images/main.png
 main_content: >
-  # Hello Friend. Hello World.
+  # LCR Serviços LTDA
 
 
   **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
