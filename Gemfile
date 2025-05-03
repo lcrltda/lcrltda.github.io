@@ -14,5 +14,5 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw]
 gem "jekyll-github-metadata"
 
 # Configuração universal para Windows/Linux
-gem "wdm", ">= 0.1.0", platforms: [:mingw, :mswin, :x64_mingw, :x64_mingw_ucrt]
-gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :x64_mingw_ucrt]
+gem "wdm", ">= 0.1.0", platforms: [:mingw, :mswin, :x64_mingw]
+gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw]
