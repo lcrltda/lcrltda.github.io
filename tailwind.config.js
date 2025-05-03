@@ -8,8 +8,9 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
-      'sans': ['Raleway'],
-      'mulish': ["Mulish"]
+      sans: ['IBM Plex Sans', 'sans-serif'],     // Texto normal (substitui Raleway)
+      heading: ['Cormorant Garamond', 'serif'],  // Títulos
+      raleway: ['Raleway', 'sans-serif']         // Mantém para compatibilidade (opcional)
     },
     container: {
       padding: {
@@ -26,5 +27,3 @@ module.exports = {
     require('@tailwindcss/typography')
   ],
 }
-
-
