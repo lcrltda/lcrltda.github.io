@@ -1,4 +1,9 @@
 source "https://rubygems.org"
+
+# Tema principal
 gem "awesome-jekyll-theme"
-gem "jekyll", "~> 4.3"
-gem "github-pages", group: :jekyll_plugins
+
+# Use este grupo para GitHub Pages:
+group :jekyll_plugins do
+  gem "github-pages"
+end
