@@ -1,8 +1,9 @@
+repository: "lcrltda/lcrltda.github.io"
 title: LCR LTDA
 logo: /assets/images/logo.png
-baseurl: " "
+baseurl: ""
 url: https://lcrltda.github.io
-repository: "lcrltda/lcrltda.github.io"
+
 
 ##
 # Typewritter configuration.
@@ -35,9 +36,9 @@ contact_channels:
 # Plugins configuration
 ##
 plugins:
+  - jekyll-github-metadata
   - jekyll-archives
   - jekyll-seo-tag
-  - jekyll-github-metadata
   - jekyll-feed
 
 ##
