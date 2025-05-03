@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 Erros de Revisão que Podem Comprometer a Imagem da Sua Empresa — e Como Evitá-los"
-image: "[https://picsum.photos/500/300](https://images.unsplash.com/photo-1571573750055-39cfc5545c23?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)"
+image: "https://images.unsplash.com/photo-1571573750055-39cfc5545c23?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 category: Redação Profissional
 date: 2025-05-03
 author: LCR
