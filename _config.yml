@@ -1,6 +1,6 @@
 title: LCR LTDA
 logo: /assets/images/logo.png
-baseurl: ""
+baseurl: " "
 url: https://lcrltda.github.io
 
 ##
@@ -36,6 +36,8 @@ contact_channels:
 plugins:
   - jekyll-archives
   - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-feed
 
 ##
 # Archives configuration
