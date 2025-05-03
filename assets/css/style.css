@@ -1,28 +1,23 @@
-/* ===== IMPORTE E DEFINA AS FONTES PRIMEIRO ===== */
+/* ===== IMPORTE AS FONTES ===== */
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=IBM+Plex+Sans:wght@400;500&display=swap');
 
+/* ===== ESTILOS GLOBAIS ===== */
 :root {
   --font-heading: 'Cormorant Garamond', serif;
   --font-body: 'IBM Plex Sans', sans-serif;
 }
 
-/* ===== APLIQUE AS FONTES ===== */
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-heading) !important;
-  font-weight: 600 !important;
-  letter-spacing: 0.3px !important;
+  font-family: var(--font-heading);
+  font-weight: 600;
+  letter-spacing: 0.3px;
 }
 
 body, p, a, li, span {
-  font-family: var(--font-body) !important;
+  font-family: var(--font-body);
 }
 
-/* ===== DEPOIS INCLUA O TAILWIND ===== */
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* ===== MANTENHA SEUS ESTILOS EXISTENTES ===== */
+/* ===== MANTENHA SEUS ANIMAÇÕES ===== */
 @keyframes gentle-bounce {
   0% { transform: translateY(0); }
   50% { transform: translateY(-3px); }
