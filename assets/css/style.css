@@ -7,17 +7,21 @@
   --font-body: 'IBM Plex Sans', sans-serif;
 }
 
+/* ===== APLICAÇÃO DAS FONTES ===== */
 h1, h2, h3, h4, h5, h6,
 .heading, .title, .post-title {
   font-family: var(--font-heading) !important;
-  font-weight: 600;
-  letter-spacing: 0.3px;
+  font-weight: 600 !important;
+  letter-spacing: 0.3px !important;
 }
 
 body, p, a, li, span,
 .body, .content {
   font-family: var(--font-body) !important;
 }
+
+/* ===== SOBRESCRITA EXTRA (GARANTIA) ===== */
+/* Não é necessário repetir as regras - já usamos !important acima */
 
 /* ===== MANTENHA SEUS ANIMAÇÕES ===== */
 @keyframes gentle-bounce {
