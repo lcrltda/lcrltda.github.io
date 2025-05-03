@@ -2,6 +2,7 @@ title: LCR LTDA
 logo: /assets/images/logo.png
 baseurl: " "
 url: https://lcrltda.github.io
+repository: "lcrltda/lcrltda.github.io"
 
 ##
 # Typewritter configuration.
