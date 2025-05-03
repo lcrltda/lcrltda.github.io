@@ -1,28 +1,34 @@
+/* ===== IMPORTE E DEFINA AS FONTES PRIMEIRO ===== */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=IBM+Plex+Sans:wght@400;500&display=swap');
+
+:root {
+  --font-heading: 'Cormorant Garamond', serif;
+  --font-body: 'IBM Plex Sans', sans-serif;
+}
+
+/* ===== APLIQUE AS FONTES ===== */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading) !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.3px !important;
+}
+
+body, p, a, li, span {
+  font-family: var(--font-body) !important;
+}
+
+/* ===== DEPOIS INCLUA O TAILWIND ===== */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+/* ===== MANTENHA SEUS ESTILOS EXISTENTES ===== */
 @keyframes gentle-bounce {
-  0% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-3px); /* Slight upward movement */
-  }
-  100% {
-    transform: translateY(0); /* Return to original position */
-  }
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-3px); }
+  100% { transform: translateY(0); }
 }
 
 a.gentle-clicked {
-  animation: gentle-bounce 0.3s ease-out; /* Shorter, smoother animation */
-}
-/* Customização de Fontes - LCR LTDA */
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Cormorant Garamond', serif;
-  font-weight: 600;
-  letter-spacing: 0.3px;
-}
-body, p, a {
-  font-family: 'IBM Plex Sans', sans-serif;
+  animation: gentle-bounce 0.3s ease-out;
 }
