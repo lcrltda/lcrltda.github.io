@@ -4,6 +4,8 @@ logo: /assets/images/logo.png
 baseurl: ""
 url: https://lcrltda.github.io
 
+# linha das fontes #
+google_fonts: "Cormorant+Garamond:wght@500;600|IBM+Plex+Sans:wght@400;500"
 
 ##
 # Typewritter configuration.
@@ -36,7 +38,7 @@ contact_channels:
 # Plugins configuration
 ##
 plugins:
-  - jekyll-github-metadata
+   - jekyll-github-metadata
   - jekyll-archives
   - jekyll-seo-tag
   - jekyll-feed

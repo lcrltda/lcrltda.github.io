@@ -17,3 +17,12 @@
 a.gentle-clicked {
   animation: gentle-bounce 0.3s ease-out; /* Shorter, smoother animation */
 }
+/* Customização de Fontes - LCR LTDA */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+body, p, a {
+  font-family: 'IBM Plex Sans', sans-serif;
+}
