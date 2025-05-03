@@ -12,3 +12,6 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw]
 
 # GitHub
 gem "jekyll-github-metadata"
+
+# Plataformas suportadas 
+platforms(:x64_mingw_ucrt, :x86_64_linux) 
