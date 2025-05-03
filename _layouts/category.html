@@ -2,12 +2,19 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
-<p>{{ page.description }}</p>
+<h1>Artigos sobre "{{ page.title | replace: '-', ' ' | capitalize }}"</h1>
 
-{% for post in site.categories[page.category] %}
-  <article>
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <p>{{ post.excerpt }}</p>
-  </article>
-{% endfor %}
+{% assign categoria = site.categories["redacao-profissional"] %}
+{% if categoria.size > 0 %}
+  <div class="posts-list">
+    {% for post in categoria %}
+      <article class="post-item">
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        <small class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</small>
+        <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+      </article>
+    {% endfor %}
+  </div>
+{% else %}
+  <p class="no-posts">Nenhum post encontrado nesta categoria.</p>
+{% endif %}
