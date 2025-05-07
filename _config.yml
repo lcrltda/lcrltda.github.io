@@ -31,9 +31,7 @@ contact_channels:
   email: "lcrlicitar@gmail.com"  
   github: "lcrltda.github.io"  
   telegram: "https://wa.me/5585987976492"  # Desativa Telegram
-  stackoverflow: ""  # Desativa StackOverflow
-  discord: ""  # Desativa Discord
-  mastodon: ""  # Desativa Mastodon
+ 
 
 ##
 # Plugins configuration
