@@ -30,8 +30,7 @@ contact_channels_section: true
 contact_channels:
   email: "lcrlicitar@gmail.com"  
   github: "lcrltda.github.io"  
-  whatsapp: "https://wa.me/5585987976492"  
-  telegram: ""  # Desativa Telegram
+  telegram: "https://wa.me/5585987976492"  # Desativa Telegram
   stackoverflow: ""  # Desativa StackOverflow
   discord: ""  # Desativa Discord
   mastodon: ""  # Desativa Mastodon
