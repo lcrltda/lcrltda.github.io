@@ -39,7 +39,7 @@ Um exemplo famoso de como os direitos autorais foram essenciais para um autor é
 
 Em 2006, um autor chamado Michael Baigent e seu coautor Richard Leigh processaram Brown, alegando que ele havia copiado partes de seu livro "O Santo Graal e Sua Heresia" para construir a narrativa central de "O Código Da Vinci". O processo envolveu questões complexas de direitos autorais, e a batalha legal durou vários anos.
 
-![Livro Código da Vinci](/_posts/2025-05-07-Direitos-Autorais/foto1.jpg) 
+![Livro Código da Vinci](/assets/images/foto1.jpg)
 
 Embora Dan Brown tenha sido processado por alegações de plágio, ele foi protegido por seus direitos autorais e pela forma como utilizou fontes públicas de maneira considerada legalmente legítima em sua obra. **A decisão final do tribunal foi favorável a Brown, protegendo sua obra original.** Esse caso ilustra como os direitos autorais podem ser um pilar importante na defesa do autor contra acusações de plágio e também destacam a importância do registro adequado para evitar disputas.
 

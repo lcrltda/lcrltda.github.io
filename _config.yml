@@ -28,10 +28,13 @@ collections:
 ##
 contact_channels_section: true
 contact_channels:
-  # email: "lcrlicitar@gmail.com"
-  github: "https://lcrltda.github.io"
-  # whatsapp: "https://api.whatsapp.com/send/?phone=85987976492&text&type=phone_number&app_absent=0"
-  
+  email: "lcrlicitar@gmail.com"  
+  github: "lcrltda.github.io"  
+  whatsapp: "https://wa.me/5585987976492"  
+  telegram: ""  # Desativa Telegram
+  stackoverflow: ""  # Desativa StackOverflow
+  discord: ""  # Desativa Discord
+  mastodon: ""  # Desativa Mastodon
 
 ##
 # Plugins configuration
