@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Você Precisa de uma Editora para Lançar Seu Livro? Descubra em 5 Perguntas
-image: "https://picsum.photos/500/300"
+image: "https://images.pexels.com/photos/9063397/pexels-photo-9063397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 category: redacao-profissional
 author: LCR
 ---
