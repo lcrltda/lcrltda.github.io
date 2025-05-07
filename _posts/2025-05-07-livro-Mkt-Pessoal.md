@@ -22,9 +22,9 @@ Ao escrever com clareza para um público específico, você se torna uma referê
 
 Quantos convites, parcerias e clientes você pode estar perdendo por ainda não ter um livro publicado? Quem lê seu livro entra em contato direto com sua visão, sua história e sua entrega. Isso gera confiança e acelera decisões.
 
-> “A chave para o sucesso é entregar valor em todas as situações possíveis. 
-> As oportunidades virão quando você menos esperar.”
-> — Simon Sinek, autor e palestrante sobre liderança e comportamento organizacional.
+> A chave para o sucesso é entregar valor em todas as situações possíveis. 
+> As oportunidades virão quando você menos esperar.
+— Simon Sinek, autor e palestrante sobre liderança e comportamento organizacional.
 
 ## 📘 O livro é a sua vitrine permanente
 
