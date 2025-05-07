@@ -1,15 +1,15 @@
 home:
-  contact_me: "Você pode falar com a gente por qualquer um desses canais"
-  blog_title: "Blog: últimas Postagens"
-  see_more_posts: "Veja mais Posts ->"
-  projects_title: "Serviços"
-  see_more_projects: "Veja mais serviços ->"
+  contact_me: "Fale com a gente por um desses canais:"
+  blog_title: "Blog: Últimas Postagens"
+  see_more_posts: "Ver todas as postagens ->"
+  projects_title: "Nossos Serviços"
+  see_more_projects: "Veja todos os serviços ->"
 footer:
   title: "Vamos conversar?"
   description: "Escolha o canal que preferir e fale com a nossa equipe."
-  pages: Pages
+  pages: Páginas
 blog:
   read_more: "Leia mais ->"
-  more_articles: "Mais Posts"
+  more_articles: "Descubra outros posts"
 post:
   share: Gostou? Compartilhe!
