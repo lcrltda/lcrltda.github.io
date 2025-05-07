@@ -20,7 +20,12 @@ Nossos núcleos — **Conteúdo, Audiovisual, Direção Criativa e Inteligência
 
 Vamos juntos dar vida à próxima grande história da sua marca.
 
+
+
+
+
 # 📩 Quer conversar com a gente?
-Fale diretamente com a nossa equipe:
-✉️ E-mail: lcrlicitar@gmail.com
-📱 WhatsApp: +55 85 8797-6492
+
+Solicite um orçamento:
+- ✉️ E-mail: lcrlicitar@gmail.com
+- 📱 WhatsApp: +55 85 8797-6492
