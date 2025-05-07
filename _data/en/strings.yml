@@ -1,15 +1,15 @@
 home:
-  contact_me: "You can contact me for any of this channels:"
-  blog_title: "Blog: Last Posts"
-  see_more_posts: "See More Posts ->"
-  projects_title: "Last Projects"
-  see_more_projects: "See More Projects ->"
+  contact_me: "Você pode falar com a gente por qualquer um desses canais"
+  blog_title: "Blog: últimas Postagens"
+  see_more_posts: "Veja mais Posts ->"
+  projects_title: "Serviços"
+  see_more_projects: "Veja mais serviços ->"
 footer:
-  title: "Let's keep in touch!"
-  description: " Find me on any of these platforms. "
+  title: "Vamos conversar?"
+  description: "Escolha o canal que preferir e fale com a nossa equipe."
   pages: Pages
 blog:
-  read_more: "Read More ->"
-  more_articles: "More Posts"
+  read_more: "Leia mais ->"
+  more_articles: "Mais Posts"
 post:
-  share: Like it? Share it!
+  share: Gostou? Compartilhe!
