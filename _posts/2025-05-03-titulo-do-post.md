@@ -47,4 +47,4 @@ A revisão de textos institucionais vai muito além da gramática. Ela é parte 
 
 **Na LCR Serviços**, sabemos que a atenção aos detalhes faz toda a diferença. Quer garantir que a comunicação da sua empresa transmita profissionalismo em cada detalhe? Nossa equipe está pronta para ajudar com soluções sob medida para sua necessidade.
 
-👉 [**Clique aqui e fale com a gente no WhatsApp**](https://api.whatsapp.com/send/?phone=85987976492&text&type=phone_number&app_absent=0) 
+👉 [**Clique aqui e fale com a gente no WhatsApp**](http://wa.me/85987976492) 

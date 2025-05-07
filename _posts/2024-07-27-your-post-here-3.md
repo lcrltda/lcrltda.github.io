@@ -1,59 +1,52 @@
 ---
 layout: post
-title: How to create an effective landing page for your campaign
+title: Você Precisa de uma Editora para Lançar Seu Livro? Descubra em 5 Perguntas
 image: "https://picsum.photos/500/300"
-category: Ruby On Rails
-author: Me
+category: redacao-profissional
+author: LCR
 ---
 
-Lorem markdownum causa finita rector cura uterque: Telamonque possit; attulerat
-totaque pugnat at vincar corpore ad exiguo canisve. Est tuo coniugis siquis
-bracchia exitio quibus! Et pater poeniceam numen tenebrisque quem incubuit hic
-damus tumere descendere.
+Escrever um livro é uma conquista. Publicar com qualidade, alcançar leitores certos e transformar sua obra em autoridade… é outra jornada. Mas será que você precisa de uma editora profissional para isso?
 
-Quam carpitur, porrigit gignis frendens saxea, [at](http://aere-myrrha.net/)
-poma ingentia vacet credentes. Namque avertere notatum placandam atque,
-_miserrima Astyanax_ dieque ut sinat Cereris: nec.
+Responda às 5 perguntas abaixo e descubra se é hora de caminhar com uma equipe especializada ao seu lado.
 
-## Nec non stirpe cratera tibi non totidemque
+## 1. Seu livro está estruturado de forma clara, envolvente e bem escrita?
 
-Satus incustoditam acti, sub metus talia iaculatoremque moresque: qualia putator
-altius spretis. Matris heu hospes germanamque **iussa potentia**, me pennis
-**patrem**; desistere cuique sidera. Denique quam perde, cum tristia adspergit
-baculisque et longa sub.
+Uma boa ideia não garante um bom livro. O texto precisa de coesão, estilo, ritmo e revisão cuidadosa.
 
-Aer honores bisque quod quas alis ramis incidit olim sistitur, en. Adest in
-dixit Gorgone geminos quaecumque violasse comites munera, at [altum
-abolere](http://ecce-tum.net/magni-mota)! Subiti ver turbata doctae quo vidit et
-aequoris cuti. Cum dea hoc ante aura, ego niteant densi Picus in donec
-_sacravere_. Numina medium at suo viroque aeque miserabile fugio, bene?
+Uma editora experiente não só corrige erros: ela eleva sua mensagem e ajuda a preparar seu livro para o público certo, com leitura fluida e linguagem ajustada ao perfil dos seus leitores.
 
-## Epops haec
+## 2. Você sabe como fazer a diagramação e criar uma capa que realmente vende?
 
-Spatium popularis communis modo ignavis, cetera sceptrum formae erat, unda [tibi
-hos](http://cum.net/habemus.html), maiora decor. Ducunt amor quid in arbore quis
-ardere qui rupe dominum te a!
+Capa é a vitrine do seu livro. Diagramação é o que mantém a leitura agradável.
 
-## Corporeasque sunt
+Além da parte visual, uma boa editora entende o que atrai seu público-alvo — cores, tipografias, título e elementos que geram identificação com quem mais vai se interessar pela sua obra.
 
-Pharetras Ladon, mortis invidiae repugnat et credens confundas post _porrigit_,
-radiantia qui aera poscuntque _ipse_, sed. Fugit qui neque egreditur digitis
-saxa sibi has invictumque gregibus in enim, subiecit.
+## 3. Você entende sobre registro, ISBN, ficha catalográfica, impressão e distribuição?
 
-> Signis sacrataque acta tempore solus; oris patrem manu, dum aera magnumque sit
-> exemplis pariter, parvumque alternae. Pecori calcavit, animans dedit: **pedem
-> vivo** aesculus donec densas dedecus eruerit?
+Esses detalhes técnicos podem travar seu lançamento se forem ignorados.
 
-## Inquit occupat coercet negant circumdata ecce Aeaciden
+Uma editora cuida de tudo isso, garantindo que seu livro esteja pronto para ser vendido em qualquer livraria, loja online ou evento — além de te orientar sobre onde seu público realmente está e como acessá-lo.
 
-Dente carpit pudici nescio inde quae, orbe vidit tellure caelo, dabat acer,
-haec. Quid frustraque illic [aspexisse](http://cereris-et.io/defluit) virgo
-exstinctum Lotis et causa crimine redeunt se aethera color nisi nec repurgat
-Ixionis discordia morsus.
+## 4. Você tem tempo (e energia) para cuidar de todo o processo sozinho?
 
-An oravit rogis amor, madescit [tacitorum tu](http://rigidis.io/que.html)
-turpius paludes. Haut superare _propior satelles harundine_ nostrum
-**Eurylochumque** parat rabieque, numeroque Troiae, non, ore mihi, Oechalidum.
-_Essem quem nunc_ omnia limite, tu narrat pennae et senes neque, in diebus
-pugnat. Aurae enim lenta agresti velut relictis, hos luctus Sminthea _cadunt
-intonsum_ volenti spatio, speciosam secuta si. Ingenii nullo orientis, secuta!
+Escrever já exige muito. Agora imagine revisar, diagramar, criar capa, negociar com gráfica, registrar, divulgar e vender...
+
+Com uma equipe especializada, você não perde tempo tentando descobrir o caminho sozinho. E mais: pode contar com orientações estratégicas sobre o mercado e o comportamento do seu leitor ideal.
+
+## 5. Você quer apenas publicar ou deseja construir autoridade e gerar oportunidades?
+
+Publicar um livro pode abrir portas: palestras, convites, vendas, entrevistas.
+
+Mas isso só acontece quando há um plano por trás — e uma editora com experiência sabe como posicionar sua obra para alcançar quem realmente precisa da sua mensagem.
+
+Se escrever é um sonho antigo, ou algo que você sente que precisa fazer, vale cuidar desse projeto com seriedade e visão de futuro. Seu livro pode ser mais do que uma realização pessoal — pode ser o começo de uma nova fase profissional, onde sua voz ganha espaço, valor e impacto real na vida das pessoas.
+
+## Resultado: Você respondeu “não” para 2 ou mais perguntas?
+
+Então, sim — ter uma editora ao seu lado pode fazer toda a diferença para transformar seu livro em um marco na sua trajetória.
+
+💬 Quer conversar com nossa equipe editorial?
+Agende uma reunião sem compromisso e descubra como tirar sua ideia do papel com excelência.
+
+👉 [**Clique aqui e fale com a gente no WhatsApp**](http://wa.me/85987976492)
