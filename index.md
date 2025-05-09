@@ -5,20 +5,20 @@ description: >-
  ""
 image: /assets/images/main.png
 main_content: >
-  # Do texto à imagem, da ideia à experiência
+  # Mensagens claras, resultados sólidos.
 
-  **Na LCR, palavras constroem, imagens envolvem e ideias ganham forma com propósito.** Unimos conteúdo e estratégia para criar marcas que permanecem, com rigor técnico e visão criativa.  
-  Cada projeto é único, pensado nos mínimos detalhes — do conceito à realização.
-  **Porque histórias não se contam — se vivem.** Damos forma à sua voz, imagem e essência com autenticidade, precisão e excelência.
+  Editora e produtora audiovisual especializada em transformar informação em **comunicação clara, confiável e com propósito**. Trabalhamos de ponta a ponta — da ideia ao produto final — com rigor técnico, visão criativa e foco em resultado. Criamos publicações, vídeos, campanhas e projetos multiplataforma que informam, educam e conectam. 
+  
+  Nossa força está no equilíbrio entre método e imaginação: conteúdo bem escrito, visual inteligente e narrativa que respeita o tempo de quem lê, assiste ou participa. Cada entrega é pensada para ser compreendida, gerar impacto e cumprir sua função — com precisão, agilidade e sem ruídos.
 
 footer: true
 permalink: /
 ---
-# Sua história, **elevada**
+# Sua história, potencializada
 
-Nossos núcleos — **Conteúdo, Audiovisual, Direção Criativa e Inteligência de Marca** — operam de forma especializada, mas integrada, garantindo soluções sob medida para cada desafio. Estruturas distintas, visão compartilhada: assim, transformamos demandas em narrativas relevantes, experiências marcantes e marcas que deixam legado.
+Nossos núcleos — Conteúdo, Audiovisual, Direção Criativa e Inteligência de Marca — atuam de maneira especializada e integrada, criando soluções personalizadas para desafios essenciais. Estruturas distintas, visão alinhada: assim, transformamos demandas em ações que transformam, com resultados que ressoam na sociedade e no futuro.
 
-**Vamos juntos dar vida à próxima grande história da sua marca.**
+**Sua comunicação merece mais. Vamos dar o próximo passo juntos.**
 
 Solicite um orçamento:
 - ✉️ E-mail: lcrlicitar@gmail.com
