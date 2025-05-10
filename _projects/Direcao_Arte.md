@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Direção Criativa
-video: https://cdn.pixabay.com/video/2023/01/20/147214-791333978_large.mp4
+video: https://cdn.pixabay.com/video/2021/03/08/67358-521707474_large.mp4
 tags:
   - design
   - arte
