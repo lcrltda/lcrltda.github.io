@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Setor de Conteúdo e Criação Editorial
-image: '/assets/images/projetos/foto1.jpg' # Caminho relativo
+video: https://cdn.pixabay.com/video/2015/08/08/149-135737404_large.mp4
 tags:
   - editoração
   - conteúdo

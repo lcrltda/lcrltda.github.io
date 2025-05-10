@@ -1,7 +1,26 @@
 <div class="rounded-lg hover:bg-gray-50 p-8 shadow">
   <a href="{{include.project.url | relative_url}}">
-    <img src="{{include.project.image | relative_url}}" alt="image" class="object-cover w-full h-60" />
-    <p class="font-mulish text-gray-500 mt-6 mb-2 ">{{include.project.category | upcase}}</p>
+    {% if include.project.video %}
+      <!-- Container do vídeo com autoplay -->
+      <div class="w-full h-60 overflow-hidden rounded-lg bg-black">
+        <video 
+          class="object-cover w-full h-full"
+          autoplay
+          muted 
+          loop 
+          playsinline
+          {% if include.project.image %}poster="{{include.project.image | relative_url}}"{% endif %}
+          controlslist="nodownload nofullscreen" >
+          <source src="{{include.project.video}}" type="video/mp4">
+          Seu navegador não suporta vídeos HTML5
+        </video>
+      </div>
+    {% else %}
+      <!-- Fallback para imagem -->
+      <img src="{{include.project.image | relative_url}}" alt="image" class="object-cover w-full h-60 rounded-lg" />
+    {% endif %}
+
+    <p class="font-mulish text-gray-500 mt-6 mb-2">{{include.project.category | upcase}}</p>
     <h2 class="text-2xl hover:underline font-bold my-2 text-gray-800">{{include.project.title}}</h2>
     <div class="font-mulish">
       {{include.project.excerpt}}
