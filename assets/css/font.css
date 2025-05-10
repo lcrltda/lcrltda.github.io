@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Raleway";
+    src: url("../fonts/Raleway-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Raleway";
+    src: url("../fonts/Raleway-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Mulish";
+    src: url("../fonts/Mulish-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Mulish";
+    src: url("../fonts/Mulish-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-display: swap;
+  }
+  
+  /* Reset para forçar as fontes */
+  * {
+    font-family: "Mulish", sans-serif !important;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Raleway", sans-serif !important;
+  }
