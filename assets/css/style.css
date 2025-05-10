@@ -1,35 +1,19 @@
-/* ===== IMPORTE AS FONTES ===== */
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=IBM+Plex+Sans:wght@400;500&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-/* ===== ESTILOS GLOBAIS ===== */
-:root {
-  --font-heading: 'Cormorant Garamond', serif;
-  --font-body: 'IBM Plex Sans', sans-serif;
-}
-
-/* ===== APLICAÇÃO DAS FONTES ===== */
-h1, h2, h3, h4, h5, h6,
-.heading, .title, .post-title {
-  font-family: var(--font-heading) !important;
-  font-weight: 600 !important;
-  letter-spacing: 0.3px !important;
-}
-
-body, p, a, li, span,
-.body, .content {
-  font-family: var(--font-body) !important;
-}
-
-/* ===== SOBRESCRITA EXTRA (GARANTIA) ===== */
-/* Não é necessário repetir as regras - já usamos !important acima */
-
-/* ===== MANTENHA SEUS ANIMAÇÕES ===== */
 @keyframes gentle-bounce {
-  0% { transform: translateY(0); }
-  50% { transform: translateY(-3px); }
-  100% { transform: translateY(0); }
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-3px); /* Slight upward movement */
+  }
+  100% {
+    transform: translateY(0); /* Return to original position */
+  }
 }
 
 a.gentle-clicked {
-  animation: gentle-bounce 0.3s ease-out;
+  animation: gentle-bounce 0.3s ease-out; /* Shorter, smoother animation */
 }
