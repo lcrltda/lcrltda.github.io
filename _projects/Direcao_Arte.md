@@ -1,15 +1,11 @@
 ---
 layout: project
 title: Direção Criativa
-image: '/assets/images/projetos/foto2.jpg' # Caminho relativo
-category: Theme
+video: https://cdn.pixabay.com/video/2023/01/20/147214-791333978_large.mp4
 tags:
   - design
   - arte
 ---
-Desenvolvemos soluções visuais que unem estética, funcionalidade e propósito. Nosso time alia técnica e criatividade para criar experiências visuais consistentes, que fortalecem a identidade de marcas, produtos e publicações em múltiplos formatos e plataformas.
-
-**Serviços:**
 - Design gráfico (logotipos, projeto gráfico, identidade visual);
 - Direção de arte para projetos (paletas, cenários, styling);
 - Fotografia criativa (ensaios, campanhas, acervo);

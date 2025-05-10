@@ -1,12 +1,8 @@
 ---
 layout: project
 title: Comunicação Digital e Redes Sociais
-image: '/assets/images/projetos/foto4.jpg' # Caminho relativo
+video: https://cdn.pixabay.com/video/2023/09/28/182699-869766689_large.mp4
 ---
-Criamos estratégias criativas que reforçam o posicionamento e a presença de marcas. Nossa abordagem integrada une planejamento, identidade e experiência, estabelecendo conexões autênticas e consistentes, do conceito à execução.
-
-**Serviços**
-
 - **Gestão de Redes Sociais**: Estratégias digitais que aumentam o engajamento e fortalecem sua presença online;
 - **Branding**: Desenvolvimento e fortalecimento de marcas;
 - **Planejamento Estratégico Integrado**: Elaboração de planos de mídia e cronogramas editoriais personalizados, alinhados aos objetivos e necessidades de cada projeto.

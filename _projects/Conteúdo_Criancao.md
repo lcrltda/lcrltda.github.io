@@ -6,9 +6,6 @@ tags:
   - editoração
   - conteúdo
 ---
-Oferecemos suporte completo na criação, revisão e finalização de conteúdos para projetos editoriais, jornalísticos e institucionais. Atuamos com precisão técnica e atenção ao estilo de cada cliente, garantindo textos bem escritos, coerentes e adequados ao público e ao meio onde serão publicados.
-
-**Serviços:**
 - Reportagem, cobertura jornalística e produção textual;
 - Copywriting e storytelling de marca;
 - Produção, revisão e edição textual/criativa;
