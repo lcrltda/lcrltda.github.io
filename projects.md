@@ -1,8 +1,8 @@
 ---
 layout: projects
-title: Projects
+title: Serviços
 nav: true
-description: These are example projects in the awesome jekyll theme
+description: Serviços que oferecemos
 ---
 
 

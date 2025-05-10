@@ -1,22 +1,15 @@
-// Font-face para Mulish
+/* Adiciona a fonte Mulish (para textos normais) */
 @font-face {
   font-family: "Mulish";
   src: url("../fonts/Mulish-Regular.ttf") format("truetype");
   font-weight: 400;
-  font-style: normal;
   font-display: swap;
 }
 
-// Font-face para Raleway
+/* Adiciona a fonte Raleway (para títulos) */
 @font-face {
   font-family: "Raleway";
   src: url("../fonts/Raleway-Regular.ttf") format("truetype");
   font-weight: 400;
-  font-style: normal;
   font-display: swap;
-}
-
-// Aplicação global
-html {
-  font-family: "Raleway", system-ui, sans-serif;
 }
