@@ -1,4 +1,10 @@
-/* Adiciona a fonte Mulish (para textos normais) */
+@font-face {
+  font-family: "Raleway";
+  src: url("../fonts/Raleway-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
+
 @font-face {
   font-family: "Mulish";
   src: url("../fonts/Mulish-Regular.ttf") format("truetype");
@@ -6,10 +12,13 @@
   font-display: swap;
 }
 
-/* Adiciona a fonte Raleway (para títulos) */
-@font-face {
-  font-family: "Raleway";
-  src: url("../fonts/Raleway-Regular.ttf") format("truetype");
-  font-weight: 400;
-  font-display: swap;
+/* 2º - Aplicação das fontes (regras globais) */
+/* Títulos */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", sans-serif !important;
+}
+
+/* Textos normais */
+body, p, li, a, span {
+  font-family: "Mulish", sans-serif !important;
 }
