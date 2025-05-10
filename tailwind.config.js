@@ -8,9 +8,8 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
-      sans: ['IBM Plex Sans', 'sans-serif'],     // Texto normal (substitui Raleway)
-      heading: ['Cormorant Garamond', 'serif'],  // Títulos
-      raleway: ['Raleway', 'sans-serif']         // Mantém para compatibilidade (opcional)
+      sans: ['Mulish', 'sans-serif'],      // Corpo do texto (substitui IBM Plex Sans)
+      heading: ['Raleway', 'sans-serif'],  // Títulos (substitui Cormorant Garamond)
     },
     container: {
       padding: {
