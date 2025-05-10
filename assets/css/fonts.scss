@@ -4,7 +4,6 @@
   font-weight: 400;
   font-display: swap;
 }
-
 @font-face {
   font-family: "Mulish";
   src: url("../fonts/Mulish-Regular.ttf") format("truetype");
@@ -12,13 +11,10 @@
   font-display: swap;
 }
 
-/* 2º - Aplicação das fontes (regras globais) */
-/* Títulos */
+/* 2. Reset AGGRESSIVO - Garante que nada sobrescreva */
+* {
+  font-family: "Mulish", sans-serif !important;
+}
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif !important;
-}
-
-/* Textos normais */
-body, p, li, a, span {
-  font-family: "Mulish", sans-serif !important;
 }
