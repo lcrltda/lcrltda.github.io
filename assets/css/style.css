@@ -1,19 +1,20 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+html, body, h1, h2, h3, h4, h5, h6, p, a, li, span, div {
+  font-family: "Mulish", sans-serif !important;
+}
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", sans-serif !important;
+}
+
+/* RESET COMPLETO - Volta ao padrão do Tailwind */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* Sua animação (opcional) */
 @keyframes gentle-bounce {
-  0% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-3px); /* Slight upward movement */
-  }
-  100% {
-    transform: translateY(0); /* Return to original position */
-  }
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-3px); }
+  100% { transform: translateY(0); }
 }
-
-a.gentle-clicked {
-  animation: gentle-bounce 0.3s ease-out; /* Shorter, smoother animation */
-}
+a.gentle-clicked { animation: gentle-bounce 0.3s ease-out; }
