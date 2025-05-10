@@ -16,7 +16,7 @@ permalink: /
 ---
 # Sua história, potencializada
 
-Nossos núcleos — Conteúdo, Audiovisual, Direção Criativa e Comunicação Digital e Redes Sociais — atuam de maneira especializada e integrada, criando soluções personalizadas para desafios diversos. Estruturas distintas, visão alinhada: assim, transformamos demandas em ações que transformam, com resultados que ressoam na sociedade e no futuro.
+Nossos núcleos — **Conteúdo, Audiovisual, Direção Criativa e Comunicação Digital e Redes Sociais** — atuam de maneira especializada e integrada, criando soluções personalizadas para desafios diversos. Estruturas distintas, visão alinhada: assim, transformamos demandas em ações que transformam, com resultados que ressoam na sociedade e no futuro.
 
 **Sua comunicação merece mais. Vamos dar o próximo passo juntos.**
 
