@@ -8,8 +8,6 @@ main_content: >
   # Mensagens claras, resultados sólidos.
 
   Editora e produtora audiovisual especializada em transformar informação em **comunicação clara, confiável e com propósito**. Trabalhamos de ponta a ponta — da ideia ao produto final — com rigor técnico, visão criativa e foco em resultado. Criamos publicações, vídeos, campanhas e projetos multiplataforma que informam, educam e conectam. 
-  
-  Nossa força está no equilíbrio entre método e imaginação: conteúdo bem escrito, visual inteligente e narrativa que respeita o tempo de quem lê, assiste ou participa. Cada entrega é pensada para ser compreendida, gerar impacto e cumprir sua função — com precisão, agilidade e sem ruídos.
 
 footer: true
 permalink: /

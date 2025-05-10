@@ -4,8 +4,6 @@ logo: /assets/images/logo.png
 baseurl: ""
 url: https://lcrltda.github.io
 
-google_fonts: "Cormorant+Garamond:wght@500;600|IBM+Plex+Sans:wght@400;500"
-
 ##
 # Typewritter configuration.
 # Feel free to disable if you don't like it.
